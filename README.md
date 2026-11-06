@@ -200,3 +200,6 @@ This repository serves as the official landing page for HDDScan. The software is
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HDDScan today!**
+
+---
+**Last updated:** 2026-11-06 00:35:45 UTC
